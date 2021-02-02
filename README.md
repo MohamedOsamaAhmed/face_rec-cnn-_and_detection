@@ -20,7 +20,7 @@
 1. time optimiztion
 
 **Issues**
-`1.Dlib installation error?`
+1.Dlib installation error?
 
   ` Make sure you have installed cmake and CMAKE_FOLDER\bin added it in environment varaible`
   ` Install anaconda`
