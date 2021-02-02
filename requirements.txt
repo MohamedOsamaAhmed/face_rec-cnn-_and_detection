@@ -1,0 +1,13 @@
+face_recognition_models
+Click>=6.0
+dlib>=19.3.0
+pip install cmake
+numpy
+Pillow
+scipy>=0.17.0
+conda install tensorflow
+conda install tensorflow-gpu
+pip install imutils
+pip install opencv-python
+conda install pip
+pip install opencv-contrib-python
