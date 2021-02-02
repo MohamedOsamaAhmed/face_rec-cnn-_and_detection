@@ -20,28 +20,28 @@
 1. time optimiztion
 
 **Issues**
-1.Dlib installation error?
+`1.Dlib installation error?`
 
-  ` Make sure you have installed cmake and CMAKE_FOLDER\bin added it in environment varaible
-   Install anaconda
-   then run following commands in anaconda shell. `
-      conda update conda
-      conda update anaconda
-   `create new environment` conda create -n env_dlib python=3.8
-   `activate enviroment` conda activate env_dlib
-   `install dlib` conda install -c conda-forge dlib
+  ` Make sure you have installed cmake and CMAKE_FOLDER\bin added it in environment varaible`
+  ` Install anaconda`
+ `  then run following commands in anaconda shell. `
+     ` conda update conda`
+     ` conda update anaconda`
+   `create new environment conda create -n env_dlib python=3.8`
+   `activate enviroment` `conda activate env_dlib`
+   `install dlib conda install -c conda-forge dlib`
    `Verify your installation in python shell using`
 
-   import dlib
-       dlib.__version__
+  ` import dlib `
+    `   dlib.__version__`
        
  2. how to run dlib face recognition with gpu?
    
-      conda install pip
-      conda install tensorflow
-      conda install tensorflow-gpu
-      pip install imutils
-      pip install opencv-python
-      pip install opencv-contrib-python
-      pip install dlib
-      pip install face_recognition
+     ` conda install pip`
+     ` conda install tensorflow`
+     ` conda install tensorflow-gpu`
+     ` pip install imutils`
+     ` pip install opencv-python`
+     ` pip install opencv-contrib-python`
+     ` pip install dlib`
+     ` pip install face_recognition`
